@@ -13,7 +13,7 @@
     "view"
   ],
   "license": "MIT",
-  "main": "backbone-table.js",
+  "main": "./src/table.js",
   "homepage": "https://github.com/HumbleSoftware/backbone-table",
   "bugs": {
     "url": "https://github.com/HumbleSoftware/backbone-table/issues"
