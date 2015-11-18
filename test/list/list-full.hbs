@@ -1,0 +1,11 @@
+{{#if empty}}
+<p>Empty</p>
+{{else}}
+<table>
+  {{#each this.items}}
+  <tr data-id="{{id}}">
+    <td>{{value}}</td>
+  </tr>
+  {{/each}}
+</table>
+{{/if}}
