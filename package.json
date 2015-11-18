@@ -1,0 +1,32 @@
+{
+  "name": "backbone-table",
+  "version": "0.0.1",
+  "description": "A simple list and table view for Backbone.",
+  "author": {
+    "name": "Carl Sutherland",
+    "email": "carl@humblesoftware.com"
+  },
+  "keywords": [
+    "backbone",
+    "list",
+    "table",
+    "view"
+  ],
+  "license": "MIT",
+  "main": "backbone-table.js",
+  "homepage": "https://github.com/HumbleSoftware/backbone-table",
+  "bugs": {
+    "url": "https://github.com/HumbleSoftware/backbone-table/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HumbleSoftware/backbone-table.git"
+  },
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gib": "0.0.4"
+  }
+}
