@@ -1,6 +1,6 @@
 {
   "name": "backbone-table",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple list and table view for Backbone.",
   "author": {
     "name": "Carl Sutherland",
