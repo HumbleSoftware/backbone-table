@@ -12,7 +12,7 @@ function init (that) {
 }
 
 function run () {
-  require('./table');
+  require('./list');
 }
 
 module.exports = init;
