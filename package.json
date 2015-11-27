@@ -50,6 +50,6 @@
     "karma-notify-reporter": "^0.1.1",
     "karma-phantomjs-launcher": "^0.2.1",
     "phantomjs": "^1.9.18",
-    "@humblesoftware/taxi": "0.0.3"
+    "@humblesoftware/taxi": "0.0.5"
   }
 }
