@@ -1,0 +1,19 @@
+<html>
+<head>
+<script type="text/javascript" src="./index.js"></script>
+<script type="text/javascript">
+var examples = require('./examples/index.js')(window);
+</script>
+<script type="text/javascript" src="./taxi.js"></script>
+<link rel="stylesheet" href="./taxi.css">
+</head>
+<body>
+<div id="taxi"></div>
+<script type="text/javascript">
+taxi.bdd.inject(this);
+examples.run();
+taxi($('#taxi'))
+</script>
+</body>
+<html>
+

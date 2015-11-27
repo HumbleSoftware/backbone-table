@@ -36,6 +36,7 @@
     "backbone": ">=1.0.0"
   },
   "devDependencies": {
+    "@humblesoftware/taxi": "0.0.1",
     "gib": "0.0.4",
     "hbsfy": "^2.1.0",
     "jasmine": "^2.1.1",
