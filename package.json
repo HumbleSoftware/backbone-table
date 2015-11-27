@@ -36,7 +36,6 @@
     "backbone": ">=1.0.0"
   },
   "devDependencies": {
-    "@humblesoftware/taxi": "0.0.1",
     "gib": "0.0.4",
     "hbsfy": "^2.1.0",
     "jasmine": "^2.1.1",
@@ -50,6 +49,7 @@
     "karma-mocha-reporter": "^1.1.1",
     "karma-notify-reporter": "^0.1.1",
     "karma-phantomjs-launcher": "^0.2.1",
-    "phantomjs": "^1.9.18"
+    "phantomjs": "^1.9.18",
+    "@humblesoftware/taxi": "0.0.2"
   }
 }
